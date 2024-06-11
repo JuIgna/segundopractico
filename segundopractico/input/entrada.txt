@@ -1,10 +1,8 @@
 double calcularPromedio(int a, int b, int c);  
 
-  
 
 void verificarCondiciones(int valor);  
 
-  
 
 double calcularPromedio(int a, int b, int c) {  
 

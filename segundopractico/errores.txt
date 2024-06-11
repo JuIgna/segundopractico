@@ -1,4 +1,4 @@
-Error semántico: Tipos de datos incompatibles en declaración de 'g'.
-Advertencia/Error semántico: Identificador 'g' ha sido declarado pero no usado.
-
-
+Error semántico: Identificador 'resultado' no ha sido inicializado.
+Error semántico: Tipos de datos incompatibles en declaración de 'x' de tipo int
+Error semántico: Tipos de datos incompatibles en declaración de 'condicion'.
+Advertencia/Error semántico: Identificador 'resultado' ha sido declarado pero no usado.
