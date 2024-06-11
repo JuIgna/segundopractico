@@ -1,0 +1,4 @@
+Error semántico: Tipos de datos incompatibles en declaración de 'g'.
+Advertencia/Error semántico: Identificador 'g' ha sido declarado pero no usado.
+
+
